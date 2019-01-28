@@ -14,7 +14,7 @@ def dynamicCatalan(n):
         return 1
     
     # storing
-    catalan = [0 for i in range(n+1)] # list compherension
+    catalan = [0 for i in range(n+1)] # list comprehension
     
     # initialize first 2 values
     catalan[0], catalan[1] = 1,1
