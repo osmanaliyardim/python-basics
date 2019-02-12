@@ -1,5 +1,5 @@
-# My Python Adventure
-My Python Tutorial Steps
+# Programming Basics with Python
+Programming Basics
 
 Please use branches to access a specific topic:
 <ul>
